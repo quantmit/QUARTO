@@ -1,4 +1,6 @@
+# Naruto: A Ninja's Journey
 
+![Naruto Logo](https://i.pinimg.com/originals/5f/60/34/5f60349f6b0980548907a7a81a8f3aed.jpg){width="200px" height="150px"}
 
 ## Brief Description
 
@@ -28,4 +30,3 @@
 -   **Sequel Anime "Naruto: Shippuden":** 2007--2017 (500 episodes)
 -   **Movies:** 11
 -   **Original Video Animations (OVAs):** 12
-
