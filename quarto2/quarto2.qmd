@@ -1,8 +1,12 @@
 ---
 title: "Naruto: A Ninja's Journey"
 author: "quantmit"
-format: html
-      
+output:
+  html_document:
+    toc: true
+    theme: cosmos
+  pdf_document:
+    toc: true
 ---
 
 # Naruto: A Ninja's Journey
