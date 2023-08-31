@@ -1,0 +1,108 @@
+---
+title: "Naruto: A Ninja's Journey"
+author: "quantmit"
+output:
+  pdf: default
+---
+
+# Naruto: A Ninja's Journey
+
+![Naruto Logo](https://i.pinimg.com/originals/5f/60/34/5f60349f6b0980548907a7a81a8f3aed.jpg){width="200px" height="150px"}
+
+::: panel-tabset
+## BRIEF DESCRIPTION
+
+## NARUTO
+
+## Brief Description
+
+*Naruto* is a Japanese manga series created by Masashi Kishimoto, following the adventures of Naruto Uzumaki, a young ninja aspiring to become the Hokage and gain recognition from his village. The story unfolds in two parts: Naruto's pre-teen years and his teenage endeavors.
+:::
+
+::: panel-tabset
+## CAST
+
+## MAIN CAST
+
+## Main Cast
+
+### Part I
+
+-   *Naruto Uzumaki:* Energetic and determined to become Hokage.
+-   *Sasuke Uchiha:* A skilled "genius" from the Uchiha clan.
+-   *Sakura Haruno:* Infatuated with Sasuke, and a member of Team 7.
+-   *Kakashi Hatake:* Mysterious and skilled leader of Team 7.
+
+### Part II and *Boruto*
+
+-   *Boruto Uzumaki:* Son of Naruto, aspires to forge his own path.
+-   *Sarada Uchiha:* Daughter of Sasuke and Sakura, aspiring ninja.
+-   *Mitsuki:* Orochimaru's artificially created son and Team 7 member.
+-   *Kawaki:* Traumatic past, adopted son of Naruto, and Boruto's brother.
+
+## Basic Statistics
+:::
+
+-   **Original Manga Serialization:** 1999--2014
+-   **Total Manga Volumes:** 72
+-   **Original Anime Series:** 2002--2007 (220 episodes)
+-   **Sequel Anime "Naruto: Shippuden":** 2007--2017 (500 episodes)
+-   **Movies:** 11
+-   **Original Video Animations (OVAs):** 12
+
+## Viewership Over Time (Original Anime Series)
+
+![Viewership Over Time](https://diamondlobby.com/wp-content/uploads/2022/07/naruto-vs-one-piece-5-year-data.png)
+
+## Episode-to-Episode Changes in Viewership
+
+![Episode-to-Episode Changes](https://images.edrawsoft.com/articles/naruto-timeline/naruto-novel-timeline-1.png)
+
+## Observations and Changes
+
+The viewership of *Naruto* experienced notable fluctuations during its broadcast. The transition from the initial *Naruto* series to *Naruto: Shippuden* marked a significant turning point, with an increase in viewership attributed to character growth and evolving storylines.
+
+Throughout the series, there were instances of viewership decline, particularly during filler arcs that deviated from the main plot. Despite these fluctuations, *Naruto: Shippuden* maintained a dedicated following, highlighting its enduring appeal.
+
+The show's success can be attributed to its well-developed characters, engaging story arcs, and exploration of themes such as friendship and personal growth. *Naruto* remains a beloved series with a lasting impact on global anime culture.
+
+## Series Overview
+
+![Naruto Shonen Jump](https://pm1.aminoapps.com/7138/19726bbf6804a22d703d72cc62172d91c5e2f00cr1-384-384v2_uhq.jpg){width="200px" height="150px"}
+
+| Season | Episodes | Originally Aired                      |
+|--------|----------|---------------------------------------|
+| 1      | 57       | October 3, 2002 - November 5, 2003    |
+| 2      | 43       | November 12, 2003 - September 8, 2004 |
+| 3      | 41       | September 15, 2004 - June 29, 2005    |
+| 4      | 42       | July 6, 2005 - May 3, 2006            |
+| 5      | 37       | May 10, 2006 - February 8, 2007       |
+
+## Series Overview
+
+![Naruto Shipuden](https://m.media-amazon.com/images/M/MV5BZGFiMWFhNDAtMzUyZS00NmQ2LTljNDYtMmZjNTc5MDUxMzViXkEyXkFqcGdeQXVyNjAwNDUxODI@._V1_.jpg)
+
+| Season | Episodes | First Aired       | Last Aired        |
+|--------|----------|-------------------|-------------------|
+| 1      | 32       | February 15, 2007 | October 25, 2007  |
+| 2      | 21       | November 8, 2007  | April 3, 2008     |
+| 3      | 18       | April 3, 2008     | August 14, 2008   |
+| 4      | 17       | August 21, 2008   | December 11, 2008 |
+| 5      | 24       | December 18, 2008 | June 4, 2009      |
+| 6      | 31       | June 11, 2009     | January 14, 2010  |
+| 7      | 8        | January 21, 2010  | March 11, 2010    |
+| 8      | 24       | March 25, 2010    | August 26, 2010   |
+| 9      | 21       | September 2, 2010 | January 27, 2011  |
+| 10     | 25       | February 10, 2011 | July 28, 2011     |
+| 11     | 21       | July 28, 2011     | December 28, 2011 |
+| 12     | 33       | January 5, 2012   | August 16, 2012   |
+| 13     | 20       | August 23, 2012   | January 10, 2013  |
+| 14     | 25       | January 17, 2013  | July 4, 2013      |
+| 15     | 28       | July 18, 2013     | January 30, 2014  |
+| 16     | 13       | February 6, 2014  | May 8, 2014       |
+| 17     | 11       | May 15, 2014      | August 14, 2014   |
+| 18     | 21       | August 21, 2014   | December 25, 2014 |
+| 19     | 20       | January 8, 2015   | May 21, 2015      |
+| 20     | 45       | May 28, 2015      | April 28, 2016    |
+| 21     | 21       | May 5, 2016       | October 13, 2016  |
+| 22     | 21       | October 20, 2016  | March 23, 2017    |
