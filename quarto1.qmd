@@ -33,7 +33,7 @@
 
 ## Viewership Over Time (Original Anime Series)
 
-
+![Viewership Over Time](https://diamondlobby.com/wp-content/uploads/2022/07/naruto-vs-one-piece-5-year-data.png)
 
 ## Episode-to-Episode Changes in Viewership
 
@@ -58,3 +58,5 @@ The show's success can be attributed to its well-developed characters, engaging 
 | 3      | 41       | September 15, 2004 - June 29, 2005    |
 | 4      | 42       | July 6, 2005 - May 3, 2006            |
 | 5      | 37       | May 10, 2006 - February 8, 2007       |
+
+## Series Overview
