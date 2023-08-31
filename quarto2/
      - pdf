@@ -1,0 +1,17 @@
+(ERROR) YAMLError: end of the stream or a document separator is expected at line 4, column 9:
+    format: - html
+            ^
+
+YAMLError: end of the stream or a document separator is expected at line 4, column 9:
+    format: - html
+            ^
+    at generateError (file:///usr/lib/rstudio/resources/app/bin/quarto/bin/quarto.js:10719:12)
+    at throwError (file:///usr/lib/rstudio/resources/app/bin/quarto/bin/quarto.js:10722:11)
+    at readDocument (file:///usr/lib/rstudio/resources/app/bin/quarto/bin/quarto.js:11656:16)
+    at loadDocuments (file:///usr/lib/rstudio/resources/app/bin/quarto/bin/quarto.js:11679:9)
+    at load (file:///usr/lib/rstudio/resources/app/bin/quarto/bin/quarto.js:11684:23)
+    at parse3 (file:///usr/lib/rstudio/resources/app/bin/quarto/bin/quarto.js:11694:12)
+    at parseWithNiceErrors (file:///usr/lib/rstudio/resources/app/bin/quarto/bin/quarto.js:19862:16)
+    at readYamlFromMarkdown (file:///usr/lib/rstudio/resources/app/bin/quarto/bin/quarto.js:19793:17)
+    at markdownExecutionEngine (file:///usr/lib/rstudio/resources/app/bin/quarto/bin/quarto.js:57972:20)
+    at fileExecutionEngine (file:///usr/lib/rstudio/resources/app/bin/quarto/bin/quarto.js:58024:12)

@@ -1,8 +1,8 @@
 ---
 title: "Naruto: A Ninja's Journey"
 author: "quantmit"
-output:
-  pdf: default
+format: html
+      
 ---
 
 # Naruto: A Ninja's Journey
