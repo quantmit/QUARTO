@@ -30,7 +30,6 @@ In summary, the provided code employs the `readxl` package to read data from the
  library(readxl)
 library(dplyr)
  metaanalysis_data <- read_excel("~/git/RRcourse2023/13. Metaanalysis/data/metaanalysis_data.xlsx")
- head(metaanalysis_data)
 ```
 
 ## THE ANALYSIS
