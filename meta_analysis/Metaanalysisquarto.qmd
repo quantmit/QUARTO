@@ -129,6 +129,7 @@ So, in summary, the code generates a forest plot using the results from the meta
 
 ## FUNEL PLOT
 
+create a funnel plot (what do you see?
 ```{r}
 m %>% funnel()
 ```
